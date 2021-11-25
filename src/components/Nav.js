@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 
 function Nav(){
     return(
-        <div className="navbar shadow-lg bg-black rounded-box mb-10 md:sticky top-0 font-mono">
+        <div className="navbar shadow-lg bg-black rounded-box mb-10 md:sticky top-0 font-mono z-20">
             <div className="flex flex-col md:flex-none px-2 mx-2 text-green-400 mr-4">
                 <span className="md:text-xl font-bold text-xs">
                         <Link to='/'> Kenneth's Portfolio </Link>

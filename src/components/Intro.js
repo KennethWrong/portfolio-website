@@ -2,10 +2,10 @@ function Intro(){
 
     return(
         <div className='p-3 font-mono mb-20'>
-        <   h1 className='sm:text-2xl md:text-4xl text-gray-200 normal-case'>About Me</h1>
+        <   h1 className='text-3xl md:text-4xl text-gray-200 normal-case'>About Me</h1>
             <div class="md:flex lg:flex-row md:flex-col lg:justify-around align-middle p-2">
                 <div className=''>
-                    <img src='/images/face.jpg' class="mask mask-circle sm:max-h-300"/>
+                    <img src='/images/face.jpg' class="mask mask-circle max-h-300 lg:max-h-400"/>
                 </div>
                 <div className='max-w-2xl md:text-lg text-md'>
                     <p1 className='text-gray-200'>Hi! My name is Kenneth, I am a Geek and I enjoy anything to do with tech. I am a self
