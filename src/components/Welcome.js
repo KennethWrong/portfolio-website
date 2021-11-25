@@ -8,9 +8,9 @@ function Welcome(){
             <div className="grid lg:grid-cols-2 md:grid-row-2 lg:gap-4 md:gap-0">
                 <div className='flex justify-center'>
                     <div class="m-auto">
-                        <h1 className="md:text-6xl text-3xl text-center lg:text-8xl mb-20 text-white uppercase sm:text-center md:text-center lg:text-left">
+                        <h1 className="md:text-5xl text-3xl text-center mb-10 text-white uppercase sm:text-center md:text-center lg:text-left">
                             Welcome {'\u2728'}</h1>
-                        <h1 className="text-green-300 md:max-w-3xl lg:text-4xl sm:text-sm  md:text-3xl text-center md:text-center lg:text-left mr-0">
+                        <h1 className="text-green-300 md:max-w-3xl lg:text-2xl sm:text-sm  md:text-3xl text-center md:text-center lg:text-left mr-0">
                             I am Kenneth, an undergraduate student pursuing Computer Engineering in 
                             Purdue University.
                         </h1>

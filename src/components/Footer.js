@@ -8,7 +8,7 @@ function Footer(){
                 <p>Last Updated November 23rd 2021</p>
             </div> 
             <div className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-                <a href="https://www.instagram.com/werunm.env/" className=' cursor-pointer'>
+                <a href="https://www.instagram.com/werunm.env/" className=' cursor-pointer hidden md:flex'>
                     <img src="/images/instagram.png" className='h-8 w-8'/>
                 </a>
             </div>

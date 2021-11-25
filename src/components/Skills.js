@@ -3,7 +3,7 @@
 function Skills(){
     return(
         <div className='p-5'>
-            <p1 className='sm:text-2xl md:text-5xl text-gray-200'>Skills</p1>
+            <p1 className='sm:text-2xl md:text-4xl text-gray-200'>Skills</p1>
             <div className='min-h-80'></div>
             <div class="grid grid-cols-2-i md:grid-cols-5 md:grid-row-3 sm:grid-cols-4 gap-4 gap-y-4">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" className="h-24 w-24 md:h-32 md:w-32"/>
