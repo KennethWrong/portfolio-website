@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       gridTemplateColumns: {
         '2': '80% 20%',
-        '2-e':  '20% 80%'
+        '2-e':  '20% 80%',
+        '2-i': '50% 50%'
       },
       padding: {
         '2/3':'66.66667%'

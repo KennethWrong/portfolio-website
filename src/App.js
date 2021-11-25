@@ -16,13 +16,14 @@ function App() {
         </Route>
         <Route path="/" exact>
           <Home />
+          <Footer />
         </Route>
         <Route path="/about">
           <Nav />
           <About />
+          <Footer />
         </Route>
       </Switch>
-      <Footer />
     </div>
     </Router>
   );

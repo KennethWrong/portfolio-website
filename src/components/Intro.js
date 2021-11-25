@@ -5,7 +5,7 @@ function Intro(){
     return(
         <div className='p-3 font-mono mb-20'>
         <   h1 className='sm:text-2xl md:text-5xl text-gray-200 normal-case'>About Me</h1>
-            <div class="md:flex lg:flex-row md:flex-col lg:justify-around align-middle">
+            <div class="md:flex lg:flex-row md:flex-col lg:justify-around align-middle p-2">
                 <div className=''>
                     <img src='/images/face.jpg' class="mask mask-circle sm:max-h-300"/>
                 </div>
