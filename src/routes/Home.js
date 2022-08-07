@@ -1,9 +1,9 @@
 import Welcome from '../components/Welcome'
 
-function Home(){
+function Home(props){
     return(
         <div>
-            <Welcome />
+            <Welcome handleDarkToggle={props.handleDarkToggle}/>
             <div className='min-h-80 lg:h-0'></div>
             <div className='min-h-16 h-16 lg:h-0'></div>
         </div>

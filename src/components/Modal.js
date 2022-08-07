@@ -3,7 +3,7 @@ function Modal(props){
 
     return(
         <div className="static font-mono">
-            <label htmlFor={`my-modal-${props.keys}`} className="btn btn-ghost modal-button text-green-600">Learn More</label> 
+            <label htmlFor={`my-modal-${props.keys}`} className="btn btn-ghost modal-button text-yellow-700 dark:text-green-400">Learn More</label> 
             <input type="checkbox" id={`my-modal-${props.keys}`} className="modal-toggle" /> 
 
             <div className="modal min-w-min md:min-w-max bg-transparent">
