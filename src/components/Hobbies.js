@@ -7,10 +7,10 @@ function Hobbies(){
                     <div className='flex flex-col mr-16 md:mr-0'>
                         <h1 className='text-4xl md:text-4xl text-yellow-700 dark:text-green-500 normal-case mb-2'>Hobbies</h1>
                         <ul className='text-gray-700 list-disc sm:text-md md:text-lg dark:text-gray-300'>
-                            <li className='mb-1'>Learn to play the Piano</li>
-                            <li className='mb-1'>Build Websites</li>
-                            <li className='mb-1'>Learn Spanish</li>
-                            <li className='mb-1'> Swimming</li>
+                            <li className='mb-1'>Learn to play the Piano 🎹</li>
+                            <li className='mb-1'>LeetCoding 👨‍💻</li>
+                            <li className='mb-1'>Learn Spanish 🇪🇸</li>
+                            <li className='mb-1'> Travelling 🏝</li>
                         </ul>
                     </div>
                 </div> 
@@ -20,9 +20,9 @@ function Hobbies(){
                         <h1 className='text-4xl md:text-4xl text-yellow-700 dark:text-green-500 normal-case mb-2 '>Interests</h1>
                         <ul className='text-gray-700 list-disc sm:text-md md:text-lg dark:text-gray-300'>
                             <li className='mb-1'>Data Structures and Algorithms</li>
-                            <li className='mb-1'>Network Communication</li>
+                            <li className='mb-1'>Machine Learning</li>
                             <li className='mb-1'>Design Patterns</li>
-                            <li className='mb-1'>Web-development</li>
+                            <li className='mb-1'>Elegant Math 📐</li>
                         </ul>
                     </div>
                 </div> 

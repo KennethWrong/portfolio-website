@@ -16,7 +16,9 @@ function Intro(){
                     <p1>Through the few years that I have been programming, I have had the honour of working in <span className='text-yellow-700 dark:text-green-400 font-bold'>Alco Holdings Limited </span>
                     as a Full-stack Web Developer, Creating Websites for the company's new product. <span className='text-yellow-700 dark:text-green-400 font-bold'>Purdue Agriculture</span> as a Software Developer, building web applications to better
                     crop yield and quality of farmers.
-                    </p1>
+                    </p1><br/><br/>
+                    <p1>Recently, I worked for <span className='text-yellow-700 dark:text-green-400 font-bold'>TikTok inc.</span> as a software Engineering Intern. I was working on
+                    the Content Creation and Consumption Team, focusing on improving the user video creation experience. I primarily worked on the backend, interfacing with serverless functions and RPC calls.</p1>
                 </div>
             </div>
         </div>

@@ -19,6 +19,8 @@ function Skills(){
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" className="h-24 w-24 md:h-32 md:w-32"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" className="h-24 w-24 md:h-32 md:w-32"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" className="h-24 w-24 md:h-32 md:w-32"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" className="h-24 w-24 md:h-32 md:w-32"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" className="h-24 w-24 md:h-32 md:w-32"/>
             </div>
             <div className='min-h-80'></div>
             <div className='min-h-80'></div>
