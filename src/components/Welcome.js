@@ -35,7 +35,7 @@ function Welcome(props){
                     <Link className="btn btn-outline mb-2 border-red-900 md:btn-lg btn-lg lg:w-full text-red-900 hover:bg-red-900 hover:text-white w-4/12" to='/experience'>
                         Experience 
                         <Emoji symbol="👨‍💻"/></Link>   
-                        <a className="btn btn-outline mb-2 btn-lg lg:w-full border-purple-500 text-purple-500 hover:bg-purple-600 hover:text-white w-4/12" href="/images/Kenneth_Resume.pdf" download>
+                        <a className="btn btn-outline mb-2 btn-lg lg:w-full border-purple-500 text-purple-500 hover:bg-purple-600 hover:text-white w-4/12" href="/images/kenneth_resume.pdf" download>
                         Resumé
                         <Emoji symbol="📘"/>
                         </a> 
