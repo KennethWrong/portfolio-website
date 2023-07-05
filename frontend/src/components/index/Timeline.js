@@ -133,16 +133,17 @@ function Timeline() {
         <div className="relative font-inter antialiased mb-10">
         <main class="relative flex flex-col justify-center overflow-hidden">
         <div class="w-full max-w-6xl mx-auto px-4 md:px-6">
+                <h1 className='font-mono font-bold text-3xl mb-5 text-center lg:text-left'> Experience</h1>
             <div class="flex flex-col justify-center divide-y divide-slate-200 [&>*]:py-6">
                 <div class="w-full max-w-3xl mx-auto">
                     <div class="-my-12">
                         {listItems()}
                     </div>
-
                 </div>
             </div>
         </div>
         </main>
+        <hr class="my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-700 to-transparent opacity-25 dark:opacity-100" />
         </div>
     )
 }
